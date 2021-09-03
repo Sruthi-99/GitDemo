@@ -13,6 +13,13 @@ public class Calculator {
 		diff=a-b;
 		System.out.println(diff);
 		
+		System.out.println("Multiplication operation");
+		int mul=0;
+		mul=a*b;
+		System.out.println(mul);
+		
+		
+		
 		
 	}
 
