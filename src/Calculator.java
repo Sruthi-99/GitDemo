@@ -1,0 +1,19 @@
+
+public class Calculator {
+	
+	public static void main(String[] args)
+	{
+		System.out.println("Addition operation");
+		int sum=0,x=20,y=10;
+		sum= x+y;
+		System.out.println(sum);
+		
+		System.out.println("Subtraction operation");
+		int diff=0,a=20,b=10;
+		diff=a-b;
+		System.out.println(diff);
+		
+		
+	}
+
+}
