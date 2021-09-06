@@ -32,8 +32,6 @@ public class Calculator {
 		System.out.println(sum-diff);
 		
 		
-		System.out.println("Genaral Arithmetic operation");
-		System.out.println(sum+diff);		
 		
 		
 		
