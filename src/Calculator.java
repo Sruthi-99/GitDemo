@@ -24,6 +24,11 @@ public class Calculator {
 		System.out.println(div);
 		
 		
+		System.out.println("Arithmetic operation");
+		System.out.println(sum-diff);
+		
+		
+		
 		
 		
 		
