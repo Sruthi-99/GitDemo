@@ -18,6 +18,12 @@ public class Calculator {
 		mul=a*b;
 		System.out.println(mul);
 		
+		System.out.println("Division operation");
+		int div=0;
+		div=a/b;
+		System.out.println(div);
+		
+		
 		
 		
 		
