@@ -28,6 +28,9 @@ public class Calculator {
 		mod=a%b;
 		System.out.println(mod);
 		
+		System.out.println("Adding Arithmetic operation");
+		System.out.println(sum-diff);
+		
 		
 		System.out.println("Genaral Arithmetic operation");
 		System.out.println(sum+diff);		
