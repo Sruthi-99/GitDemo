@@ -23,6 +23,12 @@ public class Calculator {
 		div=a/b;
 		System.out.println(div);
 		
+		System.out.println("Modulo operation");
+		int mod=0;
+		mod=a%b;
+		System.out.println(mod);
+		
+		
 		
 		System.out.println("Arithmetic operation");
 		System.out.println(sum-diff);
